@@ -73,6 +73,11 @@ namespace Kursovaya
                     MessageBox.Show("Запись обновлена");
                 }
 
+
+            }
+            else
+            {
+                MessageBox.Show("Запись не выбрана!");
             }
         }
 
